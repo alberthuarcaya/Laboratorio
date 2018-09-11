@@ -1,0 +1,21 @@
+OBSERVACIONES
+
+
+•	El objeto de Laravel es el de ser un framework que permita el uso de una sintaxis refinada y expresiva para crear codigo de forma compleja.
+•	La mayor parte de su estructura esta formada por dependencias especialmente de Symfony, lo que implica que el desarrollo de Laravel dependa del desarrollo
+•	Tiene rutas de almacenamiento en cache de rutas y middleware , son dos de las nuevas funcionalidades añadidades a la ultima version.
+•	No necesita de requerimieentos raros sobre el stack de publicacion.
+•	Al momento de crear el larabel ( gestorImagenes) se vio algunas diferencias debido a que en el anterior laboratorio se aplico otro metodo de creacion 
+para el gestorImagenes debido a que causa problemas en la parte del laboratorio 2.
+
+
+
+
+
+CONCLUSIONES
+•	Laravel es uno de los frameworks de código abierto más fáciles de asimilar para PHP. Es simple, muy potente y tiene una interfaz elegante y divertida de usar. 
+•	Se vio la ejecucion del servidor web Apache mediante Xampp o Wampp 
+•	El objetivo de Laravel es el de ser un framework que permita el uso de una sintaxis refinada y expresiva para crear código de forma sencilla, evitando el “código espagueti” y permitiendo multitud de funcionalidades
+•	Aprovecha todo lo bueno de otros frameworks y utiliza las características de las últimas versiones de PHP.
+•	Se vio los cambios de rutas
+
