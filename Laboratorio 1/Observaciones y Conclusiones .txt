@@ -1,5 +1,5 @@
 OBSERVACIONES
-
+------------------------------------------
 
 •	Se vio la instalación del Composer una herramienta para gestionar las dependencias en PHP.
 •	El composer te permite declarar las librerías de las cuales los proyectos depende o necesita y las instala en el proyecto por ti.
