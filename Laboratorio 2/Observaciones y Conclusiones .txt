@@ -1,0 +1,22 @@
+OBSERVACIONES
+------------------------------------------
+
+•	El modelo User que se ubica en la carpeta app/, los modelos hacen uso de PSR-4 y namespaces PHP.
+•	Los modelos usan convenciones para que a Laravel se le facilite el trabajo y nos ahorre tanto líneas de código como tiempo para relacionar más modelos.
+•	El nombre de los modelos se escribe en singular, en contraste con las tablas de la BD que se escriben en plural.
+•	El modelo User se encuentra en singular y con notacion UpperCamelCase y para Laravel poder definir que tabla es la que esta ligada a este modelo le es suficiente con realizar la conversion a notacion underscore y plural, dando como resultado la tabla: users.
+•	En Laravel podemos hacer uso de un ORM llamado Eloquent
+
+
+
+
+
+CONCLUSIONES
+------------------------------------------
+•	Enloquent hacce uso de los Modelos para recibir o enviar la información a la base de datos, para esto analizaremos el modelo por defecto en Laravel
+•	Se utilizo el comando php artisan make:model Pastel para poder crear el modelo
+•	Se vio  creado nuestro modelo  y se paso a crear una ruta de tipo get 
+•	un ORM es un Mapeo Objeto-Relacional es una forma de mapear los datos que se encuentran en la base de datos almacenados en un lenguaje de script SQL a objetos de PHP y viceversa.
+•	Se creo los modelos para el proyecto y ademas se modifcio algunos que venian por defectp.
+•	Se definio las relaciones de cardinalidad entre modelos.
+

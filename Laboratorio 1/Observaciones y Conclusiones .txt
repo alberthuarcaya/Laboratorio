@@ -12,9 +12,11 @@ OBSERVACIONES
 
 
 CONCLUSIONES
+------------------------------------------
 •	Se vio la instalación de  lo necesario para empezar a desarrollar con Laravel en Windows 
 •	Se vio la instalación del servidor web Apache mediante Xampp o Wampp 
 •	Al final se verifico que la creación de nuestro proyecto se realizó de manera correcta.
 •	El sublime text 3 es un editor de código más omnipresente que existe.
 •	Se agregó un código específico para la versión 2 o 3.
+•	Se probo la instalacion de la version 7 de Larabel y  se hizo una comparacion con la version 5.
 
