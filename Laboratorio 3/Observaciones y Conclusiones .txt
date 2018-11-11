@@ -1,0 +1,23 @@
+OBSERVACIONES
+------------------------------------------
+
+•	Se vio la parte de los routes que contiene las rutas de tu app.
+•	Las rutas se tienen que poner en el archivo  routes/web.php  si fuese una ruta web, si fuese una ruta para una API se debería poner en  routes/api.php. 
+•	Puedes añadir tantas rutas como quieras, pero las rutas que no estén en estos archivos al acceder y detectará que no existe Laravel te devolverá un error 404.
+•	La sintaxis del codigo sera importante para la ejecucion exitosa del gestorImagenes.
+•	En Laravel las vistas se encuentran en resources/views.
+
+
+
+
+
+CONCLUSIONES
+------------------------------------------
+•	Laravel también nos permite utilizar cualquier método HTTP, simplemente cambiando el get por post, put, delete.
+•	A veces necesitas pasar por la ruta el objeto que quieres mostrar, por ejemplo, cuando queremos mostrar el perfil de un usuario específico. 
+•	Las vistas no es más que lo que tú ves cuando entras a una web.
+•	Cuando entra en la raíz muestra la vista welcome que se encuentra en  resources/views.
+•	Si abres el archivo dentro de resourcer/views verás que hay partes que tiene una sintaxi diferente que no es ni PHP ni HTML, esas partes de código es Blade, que es el motor de plantillas de Laravel, que nos facilita mucho el trabajo.
+•	Los controladores son los archivos que se encargan de enviar la información a las vistas. 
+•       Para crear un controlador lo podemos hacer desde la línea de comandos o hacerlo manualmente, yo creo que es más sencillo desde la línea de comando.
+
