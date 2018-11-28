@@ -1,0 +1,25 @@
+---------------------------------------------------------------------Laravel Controladores y Vistas---------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+•	Se crea nuevos controladores para las fotos con sus diversas opciones ya sea crear actualizar o borrar como tambien sus manejos de errores(3.1)
+•	Se repite las misma instrucciones con Album y usuario (3.2) y (3.3).
+•	Conectamos en route para saber su direccion o su "link" (3.4).
+•	Se ejecuta la prueba (3.5).
+•  	Se cambio las direcciones y al volver a ejecutar nos daba de manera exitosa (3.6) (3.7) y (3.8).
+•	Se ingresa a fotos .Mando a la  misma direccion(3.9).
+•	Se modifico y se dio la direccion correcta (3.10).
+•	Se probo foto  y no hubo problemas (3.11)
+•	Se intento realizar un proceo y hubo un error(3.12)
+•	Se cambia parte del codigo en  español(3.14) 
+•	Cambiamos los valores retornados (3.16.1)(3.16.2)
+•	Se ejecuta y se va al formulario(3.17.2)
+•	Al darle click en registrarse un  texto diciendo que es formulario de la creacion de la cuenta(3.17.3)
+•	Se modifica el  codigo tanto el de inicio de sesion como el de registrarse(3.18)
+•	Se da Iniciar sesion(3.19) y tambien un formualrio para registrarse(3.20).
+•	Creamos un formulario para recuperar contraseña(3.21)
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+

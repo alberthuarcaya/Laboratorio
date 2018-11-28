@@ -1,0 +1,22 @@
+---------------------------------------------------------------------------Laravel Mejora de la Aplicaci+¦n---------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+•	Concluimos poniendole un diseño mas decente como exparsirlo en la pantalla o 
+controlarlo dependiendo de que tamaño de pantalla estemos usando(10.1).
+•	
+
+Hicimos lo mismo tanto en los albumes como en la fotos(10.2)
+
+.
+•	Al momento de eliminar un álbum de la base de datos, éste elimina todos los registros en la tabla fotos que pertenezcan al álbum
+•	Acceda con las credenciales creadas recientemente 
+•	Se prueba la funcionalidad del programa.
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+

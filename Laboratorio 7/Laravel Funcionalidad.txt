@@ -1,0 +1,56 @@
+---------------------------------------------------------------------------Laravel -Funcionalidad---------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+•	Vemos que se añadio con exito el boton de Editar Foto(7.1.1).
+•	En “actualizar-album.blade.php estamos usando el objeto álbum que nos pasó la función get, para seguidamente ocultarla en el formulario en la línea 21. 
+•	
+
+
+Se puede ver que estamos editando los datos de la foto y 
+subiendo otra foto en vez de la que hay(7.1.2).
+•	
+
+Vemos que el mensaje de que la operacion fue exitosa(7.1.3).
+•	
+
+
+
+Vemos que la foto fue cambiada asi como el titulo y la descripcion(7.1.4).
+•  	
+
+Todo con el mismo ID para confirmar.
+
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+¿Qué hicimos al agregar esa línea?
+Se agrego una nueva ubicacion que le permita editar un album  por lo que se aplicara con un boton.
+
+¿De qué se encarga la función authorize() en este Request?
+Proporcionar servicios de autenticación listos para usar, Laravel también proporciona una forma sencilla de autorizar las acciones del usuario contra un recurso determinado.
+Al igual que la autenticación, el enfoque de Laravel para la autorización es simple, y hay dos formas principales de autorizar acciones: puertas y políticas.Piense en puertas y políticas como rutas y controladores.
+
+¿Qué se hizo en el código mostrado?
+Almacenar en el controlador de album  los datos de id , nombre y descripcion em las que se guardara y retornara el abum actualizado.
+
+
+Explique: ¿Qué se hizo en esta función?
+Almacenar en el controlador de fotos  los datos de id y retornara la foto.
+
+Explique: ¿Qué estamos haciendo en las dos funciones principales de este Request?
+Fue para dar la acción de enviarla y guardarla en relacion al controlador de Foto que es donde se utilizara esta clase.
+
+Explique Línea a línea lo que el código pretende hacer:
+Permitira dar el cambio de una foto que se halla registrado por otra una vez hecho esto se guardara el actual y se retornara el mensaje la foto fue editada.
+
+Desde la línea 69 (el bloque if), ¿por qué tiene que verificarse que la ruta exista?. Es necesario la verificación
+Si de lo contrario de donde extraera la imagen a  a guardar en la ruta establecida existente.
+
+¿Qué hace el código de la vista?
+Permite dar una alert de la foto fue editada.
+

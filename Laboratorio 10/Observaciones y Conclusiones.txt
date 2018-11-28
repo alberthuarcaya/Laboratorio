@@ -1,0 +1,28 @@
+OBSERVACIONES
+
+
+•	Cuando creamos nuestras bases de datos solemos crear diagramas que nos facilitan la abstracción de como se va a almacenar nuestra información, pero la forma de llevarlo a la realidad en algun gestor de bases de datos
+•	Toda la informacion de almacena en la base de datos creada en los primeros laboratorios.
+•	Podemos con un simple comando ver reflejados los cambios de nuestra base de datos.
+•	La ultima versión de nuestra base siempre estará actualizada para todos los miembros del equipo de trabajo si usamos un control de versiones como GIT.
+•	Provee de portabilidad para diferentes gestores, usando el mismo código.
+
+
+
+
+
+CONCLUSIONES
+	
+•	
+
+Concluimos con todos lo funcional de este gestorImagenes.
+
+•	Aumentamos un diseño dependiendo de que porte de pantalla o ventana usemos.
+
+•	Tenemos un mayor control de las versiones de la base de datos.
+•	Hicimos los ultimo alimentando la base de datos con comandos.
+•	En caso de error tuvimos que cambiar la tabla usuario el user por usuarios.
+•	
+
+
+Todo estuvo bien especificado para poder realizarlo sin problemas.

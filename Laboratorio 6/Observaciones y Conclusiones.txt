@@ -1,0 +1,23 @@
+OBSERVACIONES
+
+
+•	No hay necesidad de agregar la integracion de URL manualmente , o convertir tu informacion en formularios.
+•	La implemmentacion de la libreria para HTTP
+•	Creamos variables que reciben datos dependiendo de otra.
+•	Modificamos codigo para poner el agregar album.
+•	Se agrega un album en la base de datos phpMyAdmin.
+•	La mayoria de creaciones se guardan dependiendo de un id
+
+
+
+
+
+
+CONCLUSIONES
+	
+•	Pusimos que al cargar la imagen solo se admitan una cierta cantidad de espacio almacenado.
+•	La sintaxis es importante para la ejecucion exitosa de gestorImagenes
+•	El request quita las complicaciones web sea transparente.
+•	Probamos el album y todo funciono como lo planeado.
+•	Si el método de controlador también está esperando una entrada de un parámetro de ruta, debe enumerar sus parámetros de ruta después de sus otras dependencias. 
+•	Se puede acceder a su parámetro de ruta definiendo su método de controlador de la siguiente manera:Illuminate\Http\Requestid

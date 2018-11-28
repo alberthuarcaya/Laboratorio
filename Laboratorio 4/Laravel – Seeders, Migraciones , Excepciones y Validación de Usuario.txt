@@ -1,0 +1,21 @@
+-----------------------------------------------------------Laravel – Seeders, Migraciones , Excepciones y Validación de Usuario---------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+•	Se va  (4.1) a la creacion de las tablas Albumes y fotos las cuales vemos ya creadas en el punto (4.2).
+•	Se crea los datos de cada tabla (4.3) y lo vemos funcional en la (4.4).
+•	Vemos que validacion inicio hay error porque no existe request (4.5)(4.6).
+•	El inicio cuando se ha validado del primer usuario (4.7) y por el usuario 2 (4.8).
+•  	Se creo nuestro propio usuario con exito despues del ultimo usuario(4.9.1)
+•	Se da el logueo de usuario creado (4.9.2).
+•       Se controla todo el inicio de sesion (4.10.2) .
+•  	Se da el comando visto en (4.10.1) .
+•	Con el  codigo y otro nombre creamos la carpeta para recuperar contraseña 
+•	Se prueba a proposito para que aparezca un error de mensaje(4.12.1).
+•	El error es el visto en (4.12.2).
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+

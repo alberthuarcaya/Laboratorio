@@ -1,0 +1,18 @@
+---------------------------------------------------------------------------Laravel - Request---------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+•	Se va iplementar un boton en las opciones de usuario llamado actualzar perfil(5.1.1)
+•	Se permite actualizar los datos del usuario que estemos logueados pidiendonos datos (5.1.2) 
+•	Se inserta un codigo para crear los el archivo de requisitos de editar o actualizar(5.2)
+•	Cambiando datos y vemos que nos efectua el cambio con exito(5.3)
+•  	Se da una cantidad de albumes a diferentes  usuarios(5.4).
+•	Se da fotos al azar a cada album(5.5)
+•       Se inspecciono el  codigo a el boton crear foto y nos dirigimos al link que tiene(5.6)
+•	Lleva a una pagina con el texto forbidden(5.7).
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+

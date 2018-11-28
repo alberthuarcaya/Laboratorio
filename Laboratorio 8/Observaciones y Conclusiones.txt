@@ -1,0 +1,24 @@
+OBSERVACIONES
+
+
+•	Blade es un sistema de plantillas para crear vistas en Laravel. Este permite extender plantillas creadas y secciones en otras vistas en las cuales también tendremos accesibles las variables y con posibilidad de utilizar código PHP en ellas, además,  ligado al uso de bootstrap u otro famework HTML
+•	Eloquent es el ORM que incluye Laravel para manejar de una forma fácil y sencilla los procesos correspondientes al manejo de bases de datos en nuestro proyecto. 
+•	Laravel proporciona un sistema de organización y gestión de rutas que nos permite controlar de manera exhaustiva las rutas de nuestro sistema.
+•	Necesitamos de un desarrollo a medida ágil, seguro y con una fácil escalabilidad y mantenimiento.
+•	El Middlewares una especie de controladores que se ejecutan antes y después de una petición al servidor, lo que nos permite insertar múltiples controles, validaciones o procesos en estos puntos del flujo de la aplicación.
+
+
+
+
+
+CONCLUSIONES
+	
+•	
+
+Implementamos la opcion para actualizar fotos.
+•	Dimos las condiciones para actualizar los datos.
+•	Probamos la app con todo lo echo funcional.
+
+•	Editamos mas codigo en los archivos
+•	Creamos mas blades.
+•	Creamos as request para cada opcion que pongamos.

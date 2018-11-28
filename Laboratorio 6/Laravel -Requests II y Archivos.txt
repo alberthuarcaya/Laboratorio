@@ -1,0 +1,25 @@
+---------------------------------------------------------------------------Laravel - Requests II y Archivos---------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+•	Probamos lo modificado oara ver la funcionalidad al crear un album(6.1.1).
+•	
+Con el exito de su funcionamiento(6.1.2)
+•	Las pruebas de la creacion(6.1.3)
+•	Se inserto fotos en la base de adtos de modo que este id requerido deberia ser enviado por la vista que tienela lista de fotos que un album contiene 6.2
+•	
+
+Vemos que al entrar nos dice que no tenemos fotos y nos da la opcion para crear foto(6.2.1)
+•	La función authorize será la misma que utilizamos en MostrarFotoRequest, ya que lo que queremos comprobar es que ese id de álbum le pertenece al usuario loggeado actualmente
+•  	Como tambien al darle click nos da la opcion para poner nombre una descripcion y la 
+imagen a subir(6.2.2)
+
+
+•	Vemos una prueba con fotos personales y con los datos que nos pide al crear(6.2.3)
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+

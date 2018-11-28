@@ -1,0 +1,36 @@
+OBSERVACIONES
+
+
+•	Se debe de crear la funcionalidad para eleminar albumnes y fotos
+•	EL request “EliminarFotoRequest” debe de referenciarlo en el controlador de las fotos.
+•	La sintaxis es primordial
+•	Los puertos adecuados
+
+
+
+
+
+CONCLUSIONES
+	
+•	Modificamos los controladores de albumes.
+•	Hicimos los mensajes para comprobar las operaciones
+•	Creamos el respectivo request a la opcion de eliminar.
+•	
+
+Creamos la opcion de eliminar album.
+
+•	A la fotos tambien le añadimos su opcion de elimianr fotos.
+•	Con esto ya estaria completa todas las funcionalidades necesarias de un gestor imegenes.
+
+
+
+¿Será necesario usar un método getEliminarAlbum?
+Si
+
+¿Qué hacen las dos funciones importantes en este request?
+Aplicar la orden establecida
+
+
+unlink=borra un archivo
+file_exists= Comprueba si existe un fichero o directorio
+realpath.=Devuelve el nombre de la ruta absoluta canonizado

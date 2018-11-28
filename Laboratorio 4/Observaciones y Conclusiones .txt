@@ -1,0 +1,23 @@
+OBSERVACIONES
+
+
+•	Las migraciones son archivos que se encuentran el la ruta database/migrations/ de nuestro proyecto Laravel.
+•	Se utilizaron comando para crear las migraciones (php artisan make:migration nombre_migracion)
+•	Con el comando php artisan migrate:rollback que lo que hará es deshacer la última migración ejecutada y registrada en la base de datos.
+•	Con el comando php artisan migrate:reset que lo que hará es deshacer todas las migraciones de la base de datos.
+•	Provee de portabilidad para diferentes gestores, usando el mismo código.
+•	Un Seeder se ubica en la carpeta database/seeds/ de nuestro proyecto de Laravel.
+•	Se usa el phpMyAdmin para ver nuestra bd.
+
+
+
+
+
+CONCLUSIONES
+•	Cuando creamos nuestras bases de datos solemos crear diagramas que nos facilitan la abstracción de como se va a almacenar nuestra información, pero la forma de llevarlo a la realidad en algun gestor de bases de datos. 
+•	Con las migraciones tenemos un mayor control de las versiones de la base de datos.
+•	Podemos con un simple comando ver reflejados los cambios de nuestra base de datos.
+•	Aprovecha todo lo bueno de otros frameworks y utiliza las características de las últimas versiones de PHP.
+•	Se vio los cambios de rutas.
+•	Los Seeders por otra parte son archivos que nos van a permitir poblar nuestra base de datos para no tener que perder el tiempo escribiendo de forma manual todos los datos.
+•	Se crearon tablas con datos de las cuales se utiliza para mas adelante.

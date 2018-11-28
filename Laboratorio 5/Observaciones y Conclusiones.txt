@@ -1,0 +1,21 @@
+OBSERVACIONES
+
+
+•	La instancia proporciona una variedad de métodos para examinar la solicitud HTTP de su aplicación y extiende la clase.
+•	El urlmétodo devolverá la URL sin la cadena de consulta
+•	El método de ruta se utiliza para recuperar el URI solicitado. 
+•	Los valores de entrada se pueden recuperar fácilmente en Laravel. 
+•	Independientemente del método utilizado para obtener o publicar , el método Laravel recuperará los valores de entrada de ambos métodos de la misma manera.
+
+
+
+
+
+CONCLUSIONES
+•	
+•	Se creo las carpetas usuarios y fotos 
+•	El IS método se utiliza para recuperar el URI solicitado que coincide con el patrón particular especificada en el argumento del método.
+•	Para obtener una instancia de la solicitud HTTP actual a través de la inyección de dependencia, debe escribir la clase en el método de su controlador. 
+•	El contenedor de servicios inyectará automáticamente la instancia de solicitud entrante :Illuminate\Http\Request
+•	Si el método de controlador también está esperando una entrada de un parámetro de ruta, debe enumerar sus parámetros de ruta después de sus otras dependencias. 
+•	Se puede acceder a su parámetro de ruta definiendo su método de controlador de la siguiente manera:Illuminate\Http\Requestid

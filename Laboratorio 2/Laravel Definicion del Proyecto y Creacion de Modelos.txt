@@ -1,0 +1,21 @@
+---------------------------------------------------------------------Laravel Definicion del Proyecto y Creacion de Modelos---------------------------------------------------------------
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+•	Agregamos lineas en host(una carpera de system32) (2.1)
+•	Modificamos unas lineas en httpd-vhosts.conf(Una carpeta de wamp64) (2.2)
+•	Se inicia la creacion de  una base de datos gestorimagenes en nuestro phpmyadmin (2.3.1) y (2.3.2)
+•	Con el comando del doc veremos todos los comandos disponibles de artisan (2.4.1) y (2.4.2) 
+•  	Se da la configuracion de el archivo .env (2.7).
+•	Se modifica el archivo user.php cambiandolo sus fillable (2.8).
+•	Se crea un archivo llamado album.php y le aumetaremos texto como se ve en (2.9) haciendo la relacion album foto.
+•	Se crea un archivo llamado foto.php con los fillable que nos pide y le pondremos la relacion foto album (2.10) 
+•	Modifique usuarios para crear la relacion usuario album (2.11)
+•	Cambiamos nombres a authcontroller por validacioncontroller.php 
+•	Modifique el use AuthenticatesAndRegisterUsers, se ingresa y entra al archivo y pega todo el contenido en (2.12).
+•	Se cambia todos los datos que halla al español como WelcomeController por BienvenidaController, el getResgister por getRegistro (2.13).
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
